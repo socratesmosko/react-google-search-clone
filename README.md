@@ -1,4 +1,4 @@
-# Goggle Search Clone React App
+# Google Search Clone React App
 
 Google clone React app, utilizing Google's REST API to load search results and manage state seamlessly.
 
