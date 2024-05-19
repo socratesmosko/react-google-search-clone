@@ -7,6 +7,7 @@ Technologies Used:
 - Tailwind
 - JavaScript
 - CSS
+- REST API
 
 run `npm i && npm start` to start the development server
 
