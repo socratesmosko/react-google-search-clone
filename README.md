@@ -1,6 +1,6 @@
 # Goggle Search Clone React App
 
-A Google clone React app, utilizing Google's REST API to load search results and manage state seamlessly.
+Google clone React app, utilizing Google's REST API to load search results and manage state seamlessly.
 
 Technologies Used:
 - React.js
